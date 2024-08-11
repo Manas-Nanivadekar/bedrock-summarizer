@@ -23,7 +23,7 @@ To get started with this project, follow the instructions below.
 
 ```bash
 git clone https://github.com/Manas-Nanivadekar/bedrock-summarizer.git
-cd chat-with-pdf-bedrock
+cd bedrock-summarizer
 ```
 
 ### Install Dependencies
